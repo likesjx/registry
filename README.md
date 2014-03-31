@@ -1,5 +1,6 @@
 # Bower registry
 
+this is a test of the emergency broadcast system.
 
 ## Create package
 ```bash
